@@ -1,0 +1,206 @@
+.satu{
+    
+    padding: 180px;
+    font-size: 50px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 5px;
+    margin-top: 5px;
+    background-image:url("poto/3.jpg");
+    
+}
+.dua{
+    height: 30px;
+    width: 200px;
+    border: solid;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tiga{
+    height: 30px;
+    width: 210px;
+    border: solid;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 220px;
+    background-color: rgb(132, 221, 132);
+}
+.lima{
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    border: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(132, 221, 132);
+}
+.empat{
+    padding: 80px;
+    font-size: 50px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 5px;
+    margin-top: 5px;
+    background-image:url("poto/3.jpg");
+}
+.absen1{
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    font-size:20px;
+    height: 15px;
+    width: 200px;
+}
+.absen11{
+    padding: 5px;
+    margin-right: 900px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+.absen2{
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    font-size:20px;
+    height: 15px;
+    width: 200px; 
+}
+.absen21{
+    padding: 5px;
+    margin-right: 900px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px; 
+}
+.absen3{
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    font-size:20px;
+    height: 15px;
+    width: 200px;
+}
+.absen31{
+    padding: 5px;
+    margin-right: 900px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+
+.absen4{
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    font-size:20px;
+    height: 15px;
+    width: 200px;
+}
+.absen41{
+    padding: 5px;
+    margin-right: 900px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+.absen5{
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+.absen51{
+    padding: 5px;
+    margin-right: 900px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+.absen6{
+    padding: 5px;
+    margin: 0px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+.absen61{
+    padding: 5px;
+    margin-right: 900px;
+    text-align: left;
+    font-size:20px;
+    height: 35px;
+    width: 200px;
+}
+.tujuh{
+    padding: 80px;
+    height: 330px;
+    width: 1050px;
+    font-size:20px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 5px;
+    margin-top: 5px;
+    background-image:url("poto/51.jpg");
+
+}
+.absen71{
+    margin-top: 10px;
+    padding: 3px;
+    height: 30px;
+    width: 90px;
+    border: solid;
+    font-size: 17px;
+    border-radius: 10px;
+    margin-right: 900px;
+    background-color: rgb(132, 221, 132);
+    text-align: left;
+}
+.delapan{
+    text-align: center;
+    font-size: 20px;
+
+}
+.latar{
+    background-image:url("poto/6.png");
+    height: 400px ;
+    margin: 2px;
+    padding: 2px;
+}
+.delapan1{
+    text-align: center;
+}
+.delapan2{
+    border: 1px;;
+    width: 50%;
+}
+.nav-item{
+
+    color: black;
+}
+.tabel{
+    text-align: center;
+}
+.form2{
+padding: 20px;
+height: 30px;
+width: 300px;
+}
+.form{
+    text-align: center;
+    padding: 20px;
+}
+.form1{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(21, 154, 172);
+    border-radius: 5px;
+}
